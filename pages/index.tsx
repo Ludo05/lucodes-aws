@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Link from 'next/link'
 import Image from 'next/image'
 import { Inter } from '@next/font/google'
 import styles from '../styles/Home.module.css'
@@ -16,6 +17,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
+          <p><Link href='/contact'></Link></p>
           <p>
             Get started by editing&nbsp;
             <code className={styles.code}>pages/index.tsx</code>

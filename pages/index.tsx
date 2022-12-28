@@ -17,7 +17,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <div className={styles.description}>
-          <p><Link href='/contact'></Link></p>
+          <p><Link href='/contact'>Contact Me</Link></p>
           <p>
             Get started by editing&nbsp;
             <code className={styles.code}>pages/index.tsx</code>

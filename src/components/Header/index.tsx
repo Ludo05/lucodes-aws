@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Container } from '../styles/container.styled';
 import Nav from '../Nav/Nav';
 import Link from 'next/link'
+import { useRouter } from 'next/router'
 
 import { BannerImage, Header, Image, SHeader } from '../styles/header.styled';
 import { Flex } from '../styles/flex.styled';
@@ -54,9 +55,10 @@ type IHeaderToggle = {
 
 export const TopHeader: React.FC<IHeaderToggle> = ({ header }) => {
   const [isSpread, setIsSpread] = useState<boolean>(false);
+  const router = useRouter()
 
-    // const isHome = pathname.length === 1;
-    const isHome = true
+
+    const isHome = router.pathname.length === 1;
     const toggleMenu = () => setIsSpread!((prevState: boolean) => !prevState);
 
   return (

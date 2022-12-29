@@ -2,65 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db61e0aa-70e4-42d9-b536-dad3f1ab72fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/data.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Template.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Blog-Card/__tests__/__snapshots__/index.test.tsx.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Blog-Card/car.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Blog-Card/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Blog-Card/tech.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/CardOnCard/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Carousel/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Contact-Form/Contact-Form.stories.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Contact-Form/Contact-Form.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Contact-Form/__tests__/index.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer/Footer.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer/index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header/index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header/public/1b021c8ce430c8fcbd597bbbf9f81730.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header/public/f107b40ab8c2580590ed03b06fcb7c72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Ideas/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Info-Card/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Nav/Nav.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/NewNav/NewNav.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/NewNav/NewNav.spec.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/NewNav/NewNav.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Service-Card/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/absolute-container.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/button.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/contact-form.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/container.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/div.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/flex.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/footer.styled.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/header.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/info-card.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/input.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/long-card.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/modal.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/nav.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/section.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/services.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/social.icons.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/styles/text.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/update/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/graphs.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/paths.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/GetBlogData.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/GetDataById.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useCalculator.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useHeight.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useQuery.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hooks/useWidth.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_document.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/theme/global.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/theme/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/theme/theme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/api/hello.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/contact/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/declarations.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/declarations.d.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +53,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -115,6 +61,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/styles" />
     </key>
@@ -143,7 +90,7 @@
       <updated>1672242317968</updated>
       <workItem from="1672242330825" duration="1673000" />
       <workItem from="1672244492510" duration="12444000" />
-      <workItem from="1672322685510" duration="1222000" />
+      <workItem from="1672322685510" duration="2502000" />
     </task>
     <servers />
   </component>

@@ -3,7 +3,7 @@ declare module '*.svg';
 declare module '*.jpg';
 declare module 'express-cors-anywhere';
 
-interface ILongCard {
+export interface ILongCard {
   item: {
     id: any;
     title: any;
@@ -13,24 +13,24 @@ interface ILongCard {
   animation?: string;
 }
 
-interface IColors {
+export interface IColors {
   header: string;
   body: string;
   footer: string;
 }
 
-interface ITheme {
+export interface ITheme {
   colors: IColors;
   mobile: string;
 }
 
-type IForm = {
+export type IForm = {
   name: string;
   email: string;
   message: string;
 };
 
-type ContactFormProps = {
+export type ContactFormProps = {
   onChange: (event: any) => void;
   state: IForm;
 };
@@ -43,11 +43,11 @@ export type BlogCardProps = {
   publish_date: string;
 };
 
-type IContactNames = 'name' | 'email' | 'message';
+export type IContactNames = 'name' | 'email' | 'message';
 
-type IContactForm = Record<IContactNames, string>;
+export type IContactForm = Record<IContactNames, string>;
 
-type TestColors = {
+export type TestColors = {
   height?: string;
   color?: string;
 };

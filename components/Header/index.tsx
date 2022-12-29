@@ -53,9 +53,9 @@ type IHeaderToggle = {
 export const TopHeader: React.FC<IHeaderToggle> = ({ header }) => {
   const [isSpread, setIsSpread] = useState<boolean>(false);
 
-  // const isHome = pathname.length === 1;
+    // const isHome = pathname.length === 1;
     const isHome = true
-  const toggleMenu = () => setIsSpread!((prevState: boolean) => !prevState);
+    const toggleMenu = () => setIsSpread!((prevState: boolean) => !prevState);
 
   return (
     <Header headerColour={header} style={{ background: 'linear-gradient(180deg, #0b8ab8 30%, #2581c1)' }}>

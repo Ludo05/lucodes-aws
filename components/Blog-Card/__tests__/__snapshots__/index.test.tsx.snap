@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact component tests matches snapshot 1`] = `
+<div
+  className="grid-wrapper"
+>
+  <div
+    className="card"
+  >
+    <div
+      className="card-contents"
+    >
+      <h3
+        className="title"
+      />
+      <p
+        className="content"
+      />
+      <a
+        className="button"
+      >
+        Learn more
+      </a>
+    </div>
+  </div>
+</div>
+`;

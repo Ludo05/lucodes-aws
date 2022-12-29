@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db61e0aa-70e4-42d9-b536-dad3f1ab72fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/Blog-Card/__tests__/__snapshots__/index.test.tsx.snap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Blog-Card/car.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Blog-Card/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Blog-Card/tech.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/CardOnCard/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Carousel/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Contact-Form/Contact-Form.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Contact-Form/Contact-Form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Contact-Form/__tests__/index.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Footer/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Footer/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/public/1b021c8ce430c8fcbd597bbbf9f81730.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Header/public/f107b40ab8c2580590ed03b06fcb7c72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Ideas/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Info-Card/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Nav/Nav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NewNav/NewNav.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NewNav/NewNav.spec.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/NewNav/NewNav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Service-Card/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/absolute-container.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/button.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/contact-form.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/container.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/div.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/flex.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/footer.styled.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/header.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/info-card.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/input.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/long-card.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/modal.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/nav.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/section.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/services.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/social.icons.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/styles/text.styled.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/update/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/graphs.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/paths.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/GetBlogData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/GetDataById.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useCalculator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useHeight.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useQuery.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/useWidth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/theme/global.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/theme/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/theme/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2JY5jCy8T6h6Z8LTcpmukYdK1VV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RESTKit.sync" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/styles" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="clousure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/clousure.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.clousure.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db61e0aa-70e4-42d9-b536-dad3f1ab72fe" name="Changes" comment="" />
+      <created>1672242317968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672242317968</updated>
+      <workItem from="1672242330825" duration="1673000" />
+      <workItem from="1672244492510" duration="10977000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>

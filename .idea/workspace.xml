@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db61e0aa-70e4-42d9-b536-dad3f1ab72fe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/components/Header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/update/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/update/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript JSX File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -59,12 +61,16 @@
       <recent name="$PROJECT_DIR$/styles" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.fk.js">
     <configuration name="clousure.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/clousure.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="fk.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/fk.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.fk.js" />
         <item itemvalue="Node.js.clousure.js" />
       </list>
     </recent_temporary>
@@ -78,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672242317968</updated>
       <workItem from="1672242330825" duration="1673000" />
-      <workItem from="1672244492510" duration="11295000" />
+      <workItem from="1672244492510" duration="11906000" />
     </task>
     <servers />
   </component>

@@ -18,6 +18,8 @@ const UpdateContainer = styled.div`
   max-width: 800px;
   background-color: rgba(255, 255, 255, 0.15);
 
+  
+  
   @media (max-width: ${MOBILE}) {
     width: 100%;
   }
